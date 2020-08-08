@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:14" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Python_tutorial" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98ede0a1-751d-48f9-add4-7e01531c0e3a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/python_study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AI_task/3_1_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AI_task/3_2_Xfunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AI_task/Youth_University_Study.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AI_task/python_常用函数" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AI_task/school_calendar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client_server" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/Django_note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/hello/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/hello/hello/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/hello/hello/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/hello/hello/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/hello/hello/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/hello/hello/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/hello/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/my_blog/article/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/my_blog/article/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/my_blog/article/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/my_blog/article/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/my_blog/article/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/my_blog/article/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/my_blog/article/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/my_blog/article/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/my_blog/article/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/my_blog/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/my_blog/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/my_blog/my_blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/my_blog/my_blog/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/my_blog/my_blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/my_blog/my_blog/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/my_blog/templates/article/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/my_blog/templates/article/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/my_blog/templates/article/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/my_blog/templates/article/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/my_blog/templates/article/help" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/my_blog/templates/article/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/mysite/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/mysite/blog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/mysite/blog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/mysite/blog/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/mysite/blog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/mysite/blog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/mysite/blog/templates/blog/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/mysite/blog/templates/blog/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/mysite/blog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/mysite/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/mysite/blog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/mysite/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/mysite/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/mysite/mysite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/mysite/mysite/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/mysite/mysite/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/mysite/mysite/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/write_board/board/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/write_board/board/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/write_board/board/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/write_board/board/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/write_board/board/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/write_board/board/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/write_board/board/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/write_board/board/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/write_board/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/write_board/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/write_board/template/board/board.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/write_board/write_board/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/write_board/write_board/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/write_board/write_board/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/write_board/write_board/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MongoDB.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySql数据库.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL_note" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sqli注入笔记.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vue_note" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Web_Flask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ziji.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/Account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/Pygal/dot.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/Pygal/fk_book1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/Pygal/fk_book3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/Pygal/fk_books.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/Pygal/gauage.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/Pygal/language_percent.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/Pygal/pygal_bar_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/Pygal/pygal_bar_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/Pygal/pygal_dot_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/Pygal/pygal_gauge_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/Pygal/pygal_pie_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/Pygal/pygal_rader_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/Pygal/pygal_stacked_bar_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/Pygal/rader.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/Pygal/task_dot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/canvas_create.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/canvas_gobang.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/canvas_qs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/client_server/CrazyitDict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/client_server/CrazyitProtocol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/client_server/ServerThread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/client_server/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/client_server/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/client_server/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/dead_lock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/deamon_thread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/draw_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/draw_thread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/exec_ddl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/first.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/first_thread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/invoke_run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/join_thread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/matplotlib/bar_test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/matplotlib/bar_test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/matplotlib/barh_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/matplotlib/contour_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/matplotlib/pie_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/matplotlib/plot_line_axis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/matplotlib/plot_line_format.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/matplotlib/plot_line_label.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/matplotlib/plot_line_legend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/matplotlib/plot_line_legend2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/matplotlib/plot_multi_line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/matplotlib/plot_qs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/matplotlib/plot_subplot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/matplotlib/plot_subplot2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/matplotlib/plot_subplot3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/matplotlib/plot_surface_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/matplotlib/scatter_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/noblock/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/noblock/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/second_thread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/send_text_mail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/sleep_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/start_death.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/test_popupMenu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/udp/udp_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/udp/udp_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/urlopen_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crazy_python_test/urlparse_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/numpy_getting_Started/01_create_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/pandas_getting_Started/01_pandas_Series_DataFrame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/pandas_getting_Started/02_pandas_TimeSerise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/pandas_getting_Started/03_pandas_Visualization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/pandas_getting_Started/04_pandas_Binary_operation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/pandas_getting_Started/05_pandas_combine_first.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/pandas_getting_Started/06_pandas_dt_Accessor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/sample_code/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/sample_code/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/sample_code/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/sample_code/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/sample_code/.idea/sample_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/sample_code/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/sample_code/ass_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/sample_code/clst_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/sample_code/data/HR.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/sample_code/data/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/sample_code/data/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/sample_code/data/main3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/sample_code/eda_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/sample_code/eda_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/sample_code/eda_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/sample_code/etl3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/sample_code/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/sample_code/semi_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/1-4,时间序列数据建模流程范例.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/test/airplane/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/test/airplane/341.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/test/airplane/446.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/test/airplane/673.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/test/airplane/82.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/test/airplane/847.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/test/airplane/879.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/test/airplane/880.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/test/airplane/915.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/test/airplane/924.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/test/airplane/950.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/test/airplane/956.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/test/airplane/962.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/test/airplane/995.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/test/automobile/127.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/test/automobile/131.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/test/automobile/197.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/test/automobile/204.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/test/automobile/392.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/test/automobile/406.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/test/automobile/618.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/test/automobile/714.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/test/automobile/716.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/test/automobile/757.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/test/automobile/821.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/test/automobile/973.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/1084.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/1108.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/1217.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/1253.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/1286.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/1338.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/1349.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/1722.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/1755.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/1851.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/1922.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/2063.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/2184.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/2286.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/2302.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/2481.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/2551.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/2644.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/2755.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/2827.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/2849.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/2941.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/2943.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/2987.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/3008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/3151.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/3182.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/3195.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/3248.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/3381.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/3471.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/3507.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/3607.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/3692.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/3695.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/3892.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/4046.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/4244.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/4283.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/4390.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/453.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/4774.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/4878.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/4881.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/4988.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/627.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/632.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/679.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/753.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/829.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/873.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/911.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/airplane/988.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/1039.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/1044.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/1158.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/1271.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/1288.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/129.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/1296.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/1461.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/1581.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/1625.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/1715.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/2044.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/2164.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/2210.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/2251.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/2317.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/2381.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/2431.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/2443.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/2485.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/2526.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/2544.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/2548.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/2627.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/2758.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/2785.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/282.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/2837.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/2885.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/2900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/2960.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/2993.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/3061.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/3381.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/3459.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/3526.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/3535.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/3634.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/4065.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/4089.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/4117.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/4165.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/4311.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/4523.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/4556.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/4572.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/4574.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/4699.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/4736.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/4959.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/4981.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/536.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/575.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/650.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/68.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/906.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/922.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/933.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/947.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/973.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_analysis/tensorflow_getting_Started/eat_tensorflow2_in_30_days/data/cifar2/train/automobile/978.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helper_hu/C_python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helper_hu/Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helper_hu/Wallpaper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helper_hu/WordCloud_png/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helper_hu/WordCloud_png/love_prattle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helper_hu/WordCloud_png/love_prattle01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helper_hu/WordCloud_png/wordCloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helper_hu/add_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helper_hu/analysis_pixabay/analysis_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helper_hu/analysis_pixabay/analysis_pixabay.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helper_hu/analysis_pixabay/get_datas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helper_hu/high_random_people.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helper_hu/love_prattle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helper_hu/love_prattle.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helper_hu/my-jackett.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helper_hu/nice.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helper_hu/python_wordCloud.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helper_hu/random_people.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helper_hu/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helper_hu/xls_T.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jQuery_note" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linux_study.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linux常用命令.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../numpy_note" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pandas_note" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pixabay_图片爬取.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pyecharts_note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pyecharts_note/pyecharts_Bar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pyecharts_note/pyecharts_Line.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pyecharts_note/pyecharts_Map.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pyecharts_note/pyecharts_Pie.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pyecharts_note/pyecharts_WordCloud.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pyecharts_note/pyecharts_global_options.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pyecharts_note/pyecharts_series_options.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythom_wangke/2017级物联网工程班.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythom_wangke/excill_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythom_wangke/name.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythom_wangke/pic/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythom_wangke/pic/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythom_wangke/pic/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythom_wangke/pic/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythom_wangke/pic/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythom_wangke/pic/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythom_wangke/pic/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythom_wangke/pic/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythom_wangke/pic/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythom_wangke/pic/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythom_wangke/pic/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythom_wangke/pic/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythom_wangke/pic/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythom_wangke/pic/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythom_wangke/pic/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythom_wangke/tupian.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python Scapy爬虫框架.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/.idea/python_99example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/A_number_that_appears_only_once.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/And_two_numbers_for_s.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/Binary_prefix_divisible_by_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/Binary_summation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/Check_if_a_word_is_a_prefix_of_other_words_in_a_sentence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/Consecutive_characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/Delete_duplicate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/Flip_word_order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/Frog_jumping_steps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/Implement_strStr ().py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/Integer_inversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/More_than_half_of_the_occurrences_in_the_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/Numbers_missing_from_0_to_n-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/Pair_exchange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/Palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/Remove_element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/Rotate_the_smallest_number_of_an_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/Search_in_binary_search_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/Search_insertion_location.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/Sparse_array_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/Sum_of_two_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/Sum_of_two_numbers_IV-Enter_BST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/The_first_character_that_appears_only_once.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/The_length_of_the_last_word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/The_minimum_index_sum_of_the_two_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/The_number_of_1s_in_binary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/The_smallest_k_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/Travel_terminal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/Unique_Morse_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/Yang_Hui_triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/square_root_of_x.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_99example/sum_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/GPU_conda.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/Imageclassiffy/imageclassiffy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/Imageclassiffy/imagedata/meta.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/Matrix_multiplication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/checkData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/code01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/code02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/conv01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/conv02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/data2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/exchangeData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/graph/events.out.tfevents.1585444546.DESKTOP-ADQN6RH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/graph01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/graph02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/graph02/events.out.tfevents.1585446541.DESKTOP-ADQN6RH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/idcard01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/idcard02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/idcard03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/keras01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/keras02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/keras03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/lang01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/lstm01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/modell.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/modellWeights.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/optimizer01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/optimizer02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/predict01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/predict02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/predict03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/predict04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/save/checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/save/idcard.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/save/idcard.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/save/idcard.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/score01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/score02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/score03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/score05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/score06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/score07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/score08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/tensorflow_note" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_Neural_Networks/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/.idea/python_scripy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/baiduwenku_read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/bilibili_number/bilibili.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/blog_pictures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/ctf_coding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/i_mooc_xynu/i_mooc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/picture_pixabay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/Actual_combat/01_baike.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/Actual_combat/02_zhihu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/Actual_combat/03_baidu_mapAPI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/Actual_combat/03_baidu_mapAPI2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/Actual_combat/Amazon/Amazon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/Actual_combat/Amazon/Amazon_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/Actual_combat/Amazon/Amazon_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/Actual_combat/Amazon/book_list.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/Actual_combat/Amazon/book_review.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/Actual_combat/Amazon/books_list.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/Actual_combat/Amazon/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/Actual_combat/BaiduMap.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/Actual_combat/BaiduMap/Main_Scrapy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/Actual_combat/BaiduMap/Map_MySQL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/Actual_combat/BaiduMap/help.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/Actual_combat/cities.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/Actual_combat/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/Actual_combat/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/blogSpider/article.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/blogSpider/article.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/blogSpider/article.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/blogSpider/blogSpider/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/blogSpider/blogSpider/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/blogSpider/blogSpider/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/blogSpider/blogSpider/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/blogSpider/blogSpider/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/blogSpider/blogSpider/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/blogSpider/blogSpider/spiders/santostang.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/blogSpider/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/blogSpider/result.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/blogSpider/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/change_IP_Address/ADSL_change_IP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/change_IP_Address/Tor_ChangeIP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/change_IP_Address/Updata_Tor_IP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/change_IP_Address/scripy_with_ADSL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/financeSpider/financeSpider/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/financeSpider/financeSpider/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/financeSpider/financeSpider/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/financeSpider/financeSpider/net_analysis" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/financeSpider/financeSpider/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/financeSpider/financeSpider/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/financeSpider/financeSpider/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/financeSpider/financeSpider/spiders/finance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/financeSpider/request.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/financeSpider/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scrapy_Post_Top250.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_Anti-reptile/change_User-Agent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_Anti-reptile/time_interval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_Chinese_garbled/question_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_Chinese_garbled/question_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_Chinese_garbled/question_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_Chinese_garbled/title.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_Login_Captcha/Captcha/Human_identification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_Login_Captcha/Captcha/ORC_to_Captcha.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_Login_Captcha/Captcha/captcha.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_Login_Captcha/Captcha/captcha_gray.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_Login_Captcha/Captcha/captcha_thresholded.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_Login_Captcha/Login/Cookies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_Login_Captcha/Login/complete_Login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_Login_Captcha/Login/cookies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_Login_Captcha/Login/session.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_blog_Eg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_blog_Preview.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_blog_Selenium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_daily" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_match_BeautifulSoup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_match_lxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_match_re.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_match_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_save_MongoDB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_save_MySQL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_save_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_save_hupu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_thread/alexa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_thread/scripy_coroutine_gevent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_thread/scripy_process_multiprocessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/python_easy_scripy/scripy_thread/scripy_thread_concurrency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_scripy/scrapy_maoyan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_study_interface/.idea/python_study_interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_study_interface/Dybamic_QR/Dynamic_QR_code.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_study_interface/Dynamic_QR_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_study_interface/Dynamic_QR_code.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_threading/.idea/python_threading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/GUI笔记" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/Ziji_APP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/build/cainiao_17_Bouncing_Ball/Analysis-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/build/cainiao_17_Bouncing_Ball/EXE-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/build/cainiao_17_Bouncing_Ball/PKG-00.pkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/build/cainiao_17_Bouncing_Ball/PKG-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/build/cainiao_17_Bouncing_Ball/PYZ-00.pyz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/build/cainiao_17_Bouncing_Ball/PYZ-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/build/cainiao_17_Bouncing_Ball/Tree-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/build/cainiao_17_Bouncing_Ball/Tree-01.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/build/cainiao_17_Bouncing_Ball/base_library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/build/cainiao_17_Bouncing_Ball/cainiao_17_Bouncing_Ball.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/build/cainiao_17_Bouncing_Ball/warn-cainiao_17_Bouncing_Ball.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/build/cainiao_17_Bouncing_Ball/xref-cainiao_17_Bouncing_Ball.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_01_Label.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_02_Button.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_03_Entry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_04_variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_05_Checkbutton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_05_Radiobutton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_06_Frame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_06_LabelFrame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_06_Toplevel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_07_Scale.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_07_spinbox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_08_Message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_08_Messagebox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_09_Key.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_09_Motion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_09_unbind.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_10_Listbox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_10_bindListbox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_10_scrollbal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_11_Combobox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_11_Optionmenu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_12_Notebook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_12_PanedWindow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_13_Progressbar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_14_Menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_14_Popupmenu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_14_Toolbar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_15_Text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_15_Text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_16_Treeview.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_17_Bouncing_Ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_17_Bouncing_Ball.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_17_Canvas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/cainiao_place.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/dist/cainiao_17_Bouncing_Ball.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_tkinter_GUI/myDict.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_常用模块.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scripy_daily" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../国外服务器搭建.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../常用API接口" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../思维导图/Django思维导图.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI_task/shool.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI_task/shool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI_task/test_2.3.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="b722445f-df76-4635-a1f8-50d8e27ac2e9" />
+  <component name="ProjectId" id="1fgFCr41M6Cb7hZ8ngNvhQXsfTu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\python_study\Web_Flask\app" />
+      <recent name="E:\python_study\Web_Flask\static\asset" />
+      <recent name="E:\python_study\Web_Flask\app\templates" />
+      <recent name="E:\python_study\Web_Flask" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="config" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Web_Flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/config.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Web_Flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\python_study\Web_Flask\app\models.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Web_Flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask" type="Python.FlaskServer" temporary="true" nameIsGenerated="true">
+      <module name="Web_Flask" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Web_Flask" type="Python.FlaskServer">
+      <module name="Web_Flask" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.models" />
+        <item itemvalue="Python.config" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98ede0a1-751d-48f9-add4-7e01531c0e3a" name="Default Changelist" comment="" />
+      <created>1596631704250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596631704250</updated>
+      <workItem from="1596631710357" duration="4783000" />
+      <workItem from="1596672500409" duration="36286000" />
+      <workItem from="1596758808453" duration="36353000" />
+      <workItem from="1596848598750" duration="1661000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="883" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596787831090">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="883" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1596787831090" />
+    <state x="374" y="200" key="FileChooserDialogImpl" timestamp="1596790489118">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="374" y="200" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1596790489118" />
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1596807941907">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1596807941907" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1596807941907">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1596807941907" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1596807941907">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1596807941907" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1596807941907">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1596807941907" />
+    <state width="723" height="275" key="GridCell.Tab.1.bottom" timestamp="1596719388400">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="723" height="275" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1596719388400" />
+    <state width="723" height="275" key="GridCell.Tab.1.center" timestamp="1596719388400">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="723" height="275" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1596719388400" />
+    <state width="723" height="275" key="GridCell.Tab.1.left" timestamp="1596719388400">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="723" height="275" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1596719388400" />
+    <state width="723" height="275" key="GridCell.Tab.1.right" timestamp="1596719388400">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="723" height="275" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1596719388400" />
+    <state width="212" height="477" key="HiddenNamespacesPopup" timestamp="1596711748717">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="212" height="477" key="HiddenNamespacesPopup/0.0.1536.864@0.0.1536.864" timestamp="1596711748717" />
+    <state x="143" y="153" key="SettingsEditor" timestamp="1596764088231">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="143" y="153" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1596764088231" />
+    <state x="766" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1596799760989">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="766" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1596799760989" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Web_Flask$config.coverage" NAME="config Coverage Results" MODIFIED="1596679492571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Web_Flask$run.coverage" NAME="run Coverage Results" MODIFIED="1596804986016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Web_Flask$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1596699089950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Web_Flask$Web_Flask.coverage" NAME="Web_Flask Coverage Results" MODIFIED="1596679143636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Web_Flask$models.coverage" NAME="models Coverage Results" MODIFIED="1596679640493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

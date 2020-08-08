@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block app_content %}
+    <h1>Hello, {{ current_user.username }}</h1>
+    <br>
+    <div class="row">
+        <div class="col-md-6">
+            {% import 'bootstrap/wtf.html' as wtf %}
+            {{ wtf.quick_form(form) }}
+            <hr>
+            {% include "post_content.html" %}
+        </div>
+        {#  大小为   col-md-3, 向右移动 2    #}
+        <div class="col-md-3 col-md-offset-2">
+            <div class="thumbnail text-center">
+                <br>
+                <img src="{{ current_user.avatar_img }}" alt="avatar" width="100px" >
+                <div class="text-center">
+                    <h3>{{ current_user.username }}</h3>
+                    <p>
+                        <a href="#" class="btn btn-primary" role="button">{{ n_followers }} followers</a>
+                        <a href="#" class="btn btn-default" role="button">{{ n_followed }} followed</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

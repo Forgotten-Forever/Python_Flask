@@ -1,0 +1,42 @@
+{#   运用函数后返回的不是列表，需要 .Item 转换为列表   #}
+{% for post in posts.items %}
+    <div class="media">
+        <div class="media-left">
+            <a href="{{ url_for('user_page', username=post.author.username) }}">
+                <img src="{{ post.author.avatar_img }}" alt="avatar" width="64px">
+            </a>
+        </div>
+        <div class="media-body">
+            <h4 class="media-heading">{{ post.author.username }}</h4>
+            <small class="text-muted">{{ post.timestamp }}</small>
+            <p>{{ post.body }}</p>
+        </div>
+    </div>
+{% endfor %}
+{# 页面跳转#}
+<nav aria-label="Page navigation">
+    <center>
+        <ul class="pagination">
+                <li class="{% if not posts.has_prev %}disabled{% endif %}">
+                    <a href="{{ url_for('index', page=posts.prev_num) }}" aria-label="Previous">
+                        <span aria-hidden="true">&laquo; Prev</span>
+                    </a>
+                </li>
+                {# posts.iter_page() 以当前页为中心显示左右页数 #}
+                {% for i in posts.iter_pages(right_current=3) %}
+                    {% if i %}
+                        {# 判断是当前页面然后颜色不同 为 active 样式 #}
+                        <li class="{% if i == posts.page %}active{% endif %}"><a href="{{ url_for("index", page=i) }}">{{ i }}</a> </li>
+                    {% else %}
+                        <li class="disabled"><a href="#">...</a> </li>
+                    {% endif %}
+                {% endfor %}
+                <li class="{% if not posts.has_next %}disabled{% endif %}">
+                    <a href="{{ url_for('index', page=posts.next_num) }}" aria-label="Next">
+                        <span aria-hidden="true">&raquo; Next</span>
+                    </a>
+                </li>
+        </ul>
+    </center>
+
+</nav>
